@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    text-align: center;
+    color:black;
+    background-color: white;
+}
+
+
+
+button{
+    background-color: transparent;
+    padding: 10px 20px 10px 20px;
+    margin-top: 1rem;
+    text-transform: uppercase;
+    
+}
